@@ -1,2 +1,2 @@
 # RN2483-LoRa-Shield
-A library for using the Wireless 868 MHz LoRa Shield for Arduino UNO.
+A library for using the Wireless 868 MHz LoRa Shield for Arduino UNO with "The Things Network".
